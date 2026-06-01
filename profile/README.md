@@ -1,6 +1,6 @@
 <div align="right">
 
-<img width="2%" alt="french-flag" src="git_assets/img/france-flag.png" />
+<img width="2%" alt="French Flag" src="git_assets/img/france-flag.png" />
 
 </div>
 
@@ -9,7 +9,7 @@
 <div align="center">
 <div align="center">
 
-<img width="75%" alt="banner-unyport" src="git_assets/img/banner.png" />
+<img width="100%" alt="TRINITY Banner" src="git_assets/img/trinity-git-banner.png" />
 
 </div>
 
@@ -114,7 +114,7 @@ A compromised guest cannot reach the host. By design, not by configuration.
 
 <br>
 
-<img width="75%" alt="chat-screenshot" src="git_assets/img/chat-screenshot.png" />
+<img width="100%" alt="chat-screenshot" src="git_assets/img/chat-screenshot.png" />
 
 <br><br>
 
@@ -156,7 +156,7 @@ No firewall magic. No hidden service.
 
 → [Audit the infrastructure](https://trinity-net.com)
 
-<img width="75%" alt="TRINITY Screenshot VM" src="git_assets/img/screenshot.png" />
+<img width="100%" alt="TRINITY Screenshot VM" src="git_assets/img/screenshot.png" />
 
 <br><br>
 
@@ -174,7 +174,7 @@ Live → [demo.unyport.app](https://demo.unyport.app)
 
 <br>
 
-<img width="75%" alt="image" src="git_assets/img/unyport-trinity-dashboard.png" />
+<img width="100%" alt="image" src="git_assets/img/unyport-trinity-dashboard.png" />
 
 <br><br>
 
