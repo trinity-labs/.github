@@ -174,7 +174,7 @@ Live → [demo.unyport.app](https://demo.unyport.app)
 
 <br>
 
-<img width="75%" alt="image" src="git_assets/img/unyport-trinity-dashboard.png" />
+<img width="100%" alt="image" src="git_assets/img/unyport-trinity-dashboard.png" />
 
 <br><br>
 
